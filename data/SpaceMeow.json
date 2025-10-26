@@ -1,10 +1,10 @@
 {
-    "id": 8660411,
+    "id": 30157349,
     "name": "Space Meow",
-    "author": "Caustic",
-    "creators": ["Caustic"],
+    "author": "f3lixsram",
+    "creators": ["f3lixsram"],
     "verifier": "Moxxzy",
-    "verification": "https://www.youtube.com/watch?v=DKtuX1vmsgw",
+    "verification": "https://www.youtube.com/watch?v=b3hGowP0kjk",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
@@ -17,7 +17,7 @@
         {
             "user": "Vollifire",
             "link": "#",
-            "percent": 65,
+            "percent": 100,
             "hz": 60
         }
     ]
