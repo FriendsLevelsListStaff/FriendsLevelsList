@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Valkicial",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vollifire",
+            "link": "#",
+            "percent": 65,
+            "hz": 60
+        }
     ]
 }
