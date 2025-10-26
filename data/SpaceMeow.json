@@ -1,0 +1,24 @@
+{
+    "id": 8660411,
+    "name": "Space Meow",
+    "author": "Caustic",
+    "creators": ["Caustic"],
+    "verifier": "Moxxzy",
+    "verification": "https://www.youtube.com/watch?v=DKtuX1vmsgw",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Valkicial",
+            "link": "#",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Vollifire",
+            "link": "#",
+            "percent": 65,
+            "hz": 60
+        }
+    ]
+}
